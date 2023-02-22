@@ -1,0 +1,18 @@
+h1 {
+  color: rgb(63, 63, 245);
+}
+h2 {
+  font-weight: bolder;
+}
+
+a {
+  color: orange;
+}
+.job {
+  color: rgb(99, 99, 99);
+  font-style: italic;
+}
+.word {
+  color: rgb(255, 22, 22);
+  font-weight: bold;
+}
